@@ -1,0 +1,6 @@
+generic\BaseTest.class
+scripts\TestHomePage.class
+generic\IAutoConstant.class
+pompages\HiddenValleyGamePage.class
+generic\Lib.class
+pompages\QuickspinHome.class

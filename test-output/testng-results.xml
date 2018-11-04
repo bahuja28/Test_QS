@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111570" started-at="2018-08-22T20:28:37Z" finished-at="2018-08-22T20:30:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111570" started-at="2018-08-22T20:28:37Z" finished-at="2018-08-22T20:30:28Z">
+      <class name="scripts.TestHomePage">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:scripts.TestHomePage@4d41cee]" name="openApplication" is-config="true" duration-ms="43898" started-at="2018-08-22T22:28:37Z" finished-at="2018-08-22T22:29:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="clickOnHomePageLogo()[pri:0, instance:scripts.TestHomePage@4d41cee]" name="clickOnHomePageLogo" duration-ms="385" started-at="2018-08-22T22:29:21Z" finished-at="2018-08-22T22:29:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnHomePageLogo -->
+        <test-method status="PASS" signature="launchAndPlayHiddenValleyGame()[pri:1, instance:scripts.TestHomePage@4d41cee]" name="launchAndPlayHiddenValleyGame" duration-ms="66449" started-at="2018-08-22T22:29:21Z" finished-at="2018-08-22T22:30:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAndPlayHiddenValleyGame -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.TestHomePage@4d41cee]" name="closeApplication" is-config="true" duration-ms="786" started-at="2018-08-22T22:30:27Z" finished-at="2018-08-22T22:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.TestHomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
